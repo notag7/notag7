@@ -1,4 +1,4 @@
-f<h1 align="center">Hi 👋, I'm AG7™</h1>
+<h1 align="center">Hi 👋, I'm AG7™</h1>
 <h3 align="center">Hobby Dev from Germany</h3>
 
 - 🔭 I’m currently working on **Python Multitool**
