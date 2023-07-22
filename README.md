@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm AG7™</h1>
 <h3 align="center">Hobby Dev from Germany</h3>
 
-- 🔭 I’m currently working on **Python Multitool**
+- 🔭 I’m currently working on: **Python Multitool**
 
-- 🌱 I’m currently learning **lua, css, html5, python, java, js**
+- 🌱 I’m currently learning: **lua, css, html5, python, java, js**
 
-- 📫 How to reach me **agg3760@gmail.com**
+- 📫 How to reach me: **agg3760@gmail.com**
 
-- ⚡ Fun fact **Femboys are not Gay**
+- ⚡ Fun fact: **Femboys are not Gay**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
