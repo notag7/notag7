@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on: **FemboyMultitool**
 
-- 🌱 I’m currently learning: **lua, css, html5, python, java, js**
+- 🌱 I’m currently learning: **lua, css, html5, python, java, js, C#, C++**
 
 - 📫 How to reach me: **agg3760@gmail.com**
 
-- ⚡ Fun fact: **Femboys are not Gay**
+- ⚡ Fun fact: **Femboys are not Gay !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
