@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **agg3760@gmail.com**
 
-- ⚡ Fun fact: **Femboys are not Gay !**
+- ⚡ Fun fact: **BLT Stinkss !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
