@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **agg3760@gmail.com**
 
-- ⚡ Fun fact: **Dont sell somthing that is easy to make !**
+- ⚡ Fun fact: **Dont sell something that is easy to make !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
